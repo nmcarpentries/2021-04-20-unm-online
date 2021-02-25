@@ -238,6 +238,12 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p>
+  <strong>Registration:</strong>
+  Registration is free and open to the pubic, but is capped at 30 people. To register, please visit the NM EPSCoR website at
+  <a href="https://www.nmepscor.org/events/april-2021-software-carpentry">https://www.nmepscor.org/events/april-2021-software-carpentry</a>
+</p>
+
 {% comment %}
 WHO CAN ATTEND?
 
