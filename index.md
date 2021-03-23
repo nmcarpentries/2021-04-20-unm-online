@@ -412,3 +412,11 @@ during the workshop.
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+
+<div>
+  <h3>Acknowledgment</h3>
+  <p>This workshop is funded through the National Science Foundation EPSCoR Cooperative Agreement OIA-1757207. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+  </p>
+  <img src="./assets/img/RII4_LOGO_EPSCoR-01.png" alt="NM EPSCoR Logo" width="300">&nbsp;&nbsp;
+  <img src="./assets/img/NSF_4-Color_bitmap_Logo.png" alt="NSF Logo" width="100">
+</div>
